@@ -11,6 +11,6 @@ Lane detection is one of the most crucial technique of ADAS and has received sig
 ## How to Run
 Run `lane_detection.py`. The default video is project_video, if you want to process the "fog_video.mp4", change video_index to 1 in line 9.
 
-## Process Pipeline
+## Demo Image
 
 ![image](https://github.com/nimadorostkar/realtime_lane_detection/blob/master/demo.jpg)
